@@ -11,6 +11,7 @@
 	},
 	"lists": {
 			"JavaScript interests" : ["SPA", "Backbone", "ReactJS", "D3JS", "NodeJS"],
-			"Other programming" : ["PHP", "Python", "HTML/CSS", "Git", "Linux", "Basic SysAdmin", "SilverStripe", "Yii", "ReactJS"]
+			"Other programming" : ["PHP", "Python", "HTML/CSS", "Git", "Linux", "Basic SysAdmin", "SilverStripe", "Yii", "ReactJS"],
+			"Other interests" : ["Running", "Football", "Films", "Reading"]
 	}
 }
