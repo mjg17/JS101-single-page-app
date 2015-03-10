@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+
+	<title>Single Page App Without A Framework</title>
+
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400" rel="stylesheet">
+	<link href="assets/css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+
+	<header class="compact">
+		
+		<h1><a href="#">Virtual CodeHub</a></h1>
+	</header>
+
+	<div id="main-content">
+
+		<div id="all-profiles" class="page visible">
+
+			<div class="filters">
+				<form>
+
+					<div class="filter-criteria">
+
+
+						<span>JavaScript</span>
+						<label><input type="checkbox" name="JavaScript interests" value="SPA">Single Page Applications</label>
+
+						<label><input type="checkbox" name="JavaScript interests" value="D3JS">D3JS</label>
+
+						<label><input type="checkbox" name="JavaScript interests" value="Backbone">Backbone</label>
+
+						<label><input type="checkbox" name="JavaScript interests" value="Angular">Angular</label>
+
+						<label><input type="checkbox" name="JavaScript interests" value="jQuery">jQuery</label>
+
+						<label><input type="checkbox" name="JavaScript interests" value="Maps">Maps</label>
+
+						<label><input type="checkbox" name="JavaScript interests" value="ReactJS">ReactJS</label>
+				
+					</div>
+
+					<button id="filters">Clear filters</button>
+
+				</form>
+
+			</div>
+
+			<ul id="profiles" class="profiles-list">	
+
+
+			</ul>
+
+		</div>
+
+
+		<div id="single-profile" class="page">
+
+			<div class="overlay"></div>
+
+			<div id="preview-large">
+				<h3>Single profile view</h3>
+				<img src=""/>
+				<p></p>
+
+				<span class="close">×</span>
+			</div>
+
+		</div>
+
+		<div class="error page">
+			<h3>Sorry, something went wrong :(</h3>
+		</div>
+
+	</div>
+
+	
+	<script src="assets/js/script.js"></script>
+
+</body>
+</html>

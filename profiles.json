@@ -1,0 +1,32 @@
+[{
+	"username" : "gicela",
+	"image"  : "amber",
+	"superpower" : {
+		"type" : "flying",
+		"speed": {
+				"units" : "kmh",
+				"value"	 : 100
+				 }
+		
+	},
+	"lists": {
+			"JavaScript interests" : ["SPA", "Backbone", "D3JS", "NodeJS"],
+			"Other programming" : ["PHP", "Python", "HTML/CSS", "Git", "Wordpress", "Scratch", "Raspberry Pi", "Espruino"]
+	}
+	
+}, {
+	"username" : "kat",
+	"image"  : "labradorite",
+	"superpower" : {
+		"type" : "running",
+		"speed": {
+				"units" : "min/km",
+				"value"	 : 7
+				 }
+				 
+	},
+	"lists": {
+			"JavaScript interests" : ["SPA", "Backbone", "ReactJS", "D3JS", "NodeJS"],
+			"Other programming" : ["PHP", "Python", "HTML/CSS", "Git", "Linux", "Basic SysAdmin", "SilverStripe", "Yii", "ReactJS"]
+	}
+}]

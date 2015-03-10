@@ -1,0 +1,17 @@
+{
+	"username" : "gicela",
+	"image"  : "amber",
+	"superpower" : {
+		"type" : "flying",
+		"speed": {
+				"units" : "kmh",
+				"value"	 : 100
+				 }
+		
+	},
+	"lists": {
+			"JavaScript interests" : ["SPA", "Backbone", "D3JS", "NodeJS"],
+			"Other programming" : ["PHP", "Python", "HTML/CSS", "Git", "Wordpress", "Scratch", "Raspberry Pi", "Espruino"]
+	}
+	
+}

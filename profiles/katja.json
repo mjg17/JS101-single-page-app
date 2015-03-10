@@ -1,0 +1,16 @@
+{
+	"username" : "kat",
+	"image"  : "labradorite",
+	"superpower" : {
+		"type" : "running",
+		"speed": {
+				"units" : "min/km",
+				"value"	 : 7
+				 }
+				 
+	},
+	"lists": {
+			"JavaScript interests" : ["SPA", "Backbone", "ReactJS", "D3JS", "NodeJS"],
+			"Other programming" : ["PHP", "Python", "HTML/CSS", "Git", "Linux", "Basic SysAdmin", "SilverStripe", "Yii", "ReactJS"]
+	}
+}
