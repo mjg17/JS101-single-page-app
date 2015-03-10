@@ -1,0 +1,18 @@
+{
+	"username" : "murf",
+	"image"  : "ruby",
+	"superpower" : {
+		"type" : "vision",
+		"speed": {
+				"units" : "kmh",
+				"value"	 : 22
+				 }
+		
+	},
+	"lists": {
+			"JavaScript interests" : ["SPA", "Backbone", "D3JS", "NodeJS"],
+			"Other programming" : ["HTML/CSS", "Git", "Actionscript"],
+			"Favourite food" : ["Roast lamb", "Custard", "Noodles", "Aloo Ghobi"]
+	}
+	
+}
