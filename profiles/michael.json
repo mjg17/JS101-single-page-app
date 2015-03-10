@@ -1,0 +1,17 @@
+{
+	"username" : "michael",
+	"image"  : "turquoise",
+	"superpower" : {
+		"type" : "cycling",
+		"speed": {
+				"units" : "km/h",
+				"value"	 : 40
+				 }
+				 
+	},
+	"lists": {
+			"JavaScript interests" : ["NodeJS"],
+			"Other programming" : ["Perl", "Git", "Linux", "SQL", "C"],
+			"Other interests" : ["Cycling", "Sailing", "Films", "Reading"]
+	}
+}
